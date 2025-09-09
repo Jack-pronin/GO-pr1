@@ -14,4 +14,6 @@
 
 ## Скриншоты
 
-# Версии
+### Версии
+
+<img width="549" height="98" alt="image" src="https://github.com/user-attachments/assets/5b792e0a-07cf-4acc-9b56-6190cd3597cb" />
