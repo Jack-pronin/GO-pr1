@@ -51,4 +51,44 @@ go run ./cmd/server
 Starting on :8081 ...
 ```
 
-##Сборка
+## Сборка
+
+```
+go build -o helloapi.exe ./cmd/server
+./helloapi.exe
+```
+
+## Эндпоинты
+
+```
+# 1) /hello → text/plain
+curl http://localhost:8080/hello
+
+# 2) /user → application/json { "id": "<uuid>", "name": "..." }
+curl http://localhost:8080/user
+
+# 3) /health → application/json { "status":"ok", "time":"<RFC3339>" }
+curl http://localhost:8080/health
+```
+
+## Конфигурация
+
+APP_PORT — порт HTTP-сервера (строка без двоеточия, например 8080). Если не задана — используется 8080.
+
+## Проверка качества
+```
+go fmt ./...
+go vet ./...
+```
+Ожидаемо — без предупреждений.
+
+## Структура проекта
+
+```
+helloapi/
+  cmd/
+    server/
+      main.go
+  go.mod
+  go.sum   
+```
