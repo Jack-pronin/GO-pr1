@@ -4,9 +4,9 @@
 
 Проект реализует минимальный HTTP-сервер на Go с тремя основными маршрутами:
 
-- /hello — возвращает текст "Hello, world!"
-- /user — возвращает JSON с сгенерированным UUID и именем "Gopher"
-- /health — возвращает JSON с текущим статусом "ok" и временем сервера в формате RFC3339
+* /hello — возвращает текст "Hello, world!"
+* /user — возвращает JSON с сгенерированным UUID и именем "Gopher"
+* /health — возвращает JSON с текущим статусом "ok" и временем сервера в формате RFC3339
 
 Сервер позволяет задавать порт через переменную окружения APP_PORT. Если переменная не задана, используется порт 8080 по умолчанию.
 
@@ -18,3 +18,12 @@
 
 <img width="484" height="69" alt="image" src="https://github.com/user-attachments/assets/c322734c-eede-4509-b42f-b1ea6883d85c" />
 
+### Ответы
+
+<img width="498" height="137" alt="image" src="https://github.com/user-attachments/assets/492c58cb-0505-48e2-a3fb-09aa9f80b350" />
+
+
+### Требования
+
+* Go 1.25.1
+* Git 2.51.0
