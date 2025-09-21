@@ -16,4 +16,5 @@
 
 ### Версии
 
-<img width="549" height="98" alt="image" src="https://github.com/user-attachments/assets/5b792e0a-07cf-4acc-9b56-6190cd3597cb" />
+<img width="484" height="69" alt="image" src="https://github.com/user-attachments/assets/c322734c-eede-4509-b42f-b1ea6883d85c" />
+
