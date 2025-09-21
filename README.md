@@ -23,7 +23,9 @@
 <img width="498" height="137" alt="image" src="https://github.com/user-attachments/assets/492c58cb-0505-48e2-a3fb-09aa9f80b350" />
 
 
-### Требования
+## Требования
 
 * Go 1.25.1
 * Git 2.51.0
+
+## Запуск
