@@ -20,11 +20,13 @@
 
 ### Ответы
 
-<img width="628" height="93" alt="image" src="https://github.com/user-attachments/assets/a1ffdc3f-cb04-4b25-8327-482a8131d87a" />
+<img width="620" height="240" alt="image" src="https://github.com/user-attachments/assets/4c1198b3-084f-4056-a755-090cddb8be6d" />
 
-<img width="618" height="100" alt="image" src="https://github.com/user-attachments/assets/14b188db-22c0-403f-9458-b2c058e441a7" />
 
-<img width="623" height="108" alt="image" src="https://github.com/user-attachments/assets/469a4a94-f24c-46af-ab14-ac988f3bfbf0" />
+<img width="620" height="240" alt="image" src="https://github.com/user-attachments/assets/33554ad6-4cd7-4fb1-9223-0c800bd391c9" />
+
+
+<img width="620" height="240" alt="image" src="https://github.com/user-attachments/assets/000557ac-0976-49bb-8e54-7120fa0358fd" />
 
 
 
