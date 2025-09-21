@@ -20,7 +20,12 @@
 
 ### Ответы
 
-<img width="498" height="137" alt="image" src="https://github.com/user-attachments/assets/492c58cb-0505-48e2-a3fb-09aa9f80b350" />
+<img width="628" height="93" alt="image" src="https://github.com/user-attachments/assets/a1ffdc3f-cb04-4b25-8327-482a8131d87a" />
+
+<img width="618" height="100" alt="image" src="https://github.com/user-attachments/assets/14b188db-22c0-403f-9458-b2c058e441a7" />
+
+<img width="623" height="108" alt="image" src="https://github.com/user-attachments/assets/469a4a94-f24c-46af-ab14-ac988f3bfbf0" />
+
 
 
 ## Требования
